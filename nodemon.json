@@ -1,0 +1,6 @@
+{
+    "watch": ["."],
+    "ext": "js,ts,jsx,css,tsx,mjs,cjs,json,html",
+    "ignore": ["dist", "node_modules", "build"],
+    "delay": "15000"
+  }
